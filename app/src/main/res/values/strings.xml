@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Protibadi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="tv_main_welcome">Welcome</string>
+    <string name="nav_howToUse_instruction">Protibadi is a women safety application. To use protibadi for the very first time, you have to connect and pair your HC-5 device via bluetooth. And your device will be connected with the application. Before traveling anywhere you have to turn on this application on your background. While you are facing trouble on anywhere just simply press the button on your HC-5 device then sending emergency message will be done by the application. Make sure that you have sufficient balance on your mobile to send text message. A regular charge will be applicable for sending message.</string>
+</resources>
